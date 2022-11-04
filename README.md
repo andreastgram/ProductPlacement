@@ -1,5 +1,4 @@
 # Product Placement
-Capstone project 
 
 In this repository you will find the following directories:
 
